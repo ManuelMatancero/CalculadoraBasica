@@ -1,0 +1,10 @@
+C:\Users\18297\OneDrive\Desktop\Programacion II\CalculadoraBasica\CalculadoraBasica\obj\Debug\CalculadoraBasica.csproj.AssemblyReference.cache
+C:\Users\18297\OneDrive\Desktop\Programacion II\CalculadoraBasica\CalculadoraBasica\obj\Debug\CalculadoraBasica.Form1.resources
+C:\Users\18297\OneDrive\Desktop\Programacion II\CalculadoraBasica\CalculadoraBasica\obj\Debug\CalculadoraBasica.Properties.Resources.resources
+C:\Users\18297\OneDrive\Desktop\Programacion II\CalculadoraBasica\CalculadoraBasica\obj\Debug\CalculadoraBasica.csproj.GenerateResource.cache
+C:\Users\18297\OneDrive\Desktop\Programacion II\CalculadoraBasica\CalculadoraBasica\obj\Debug\CalculadoraBasica.csproj.CoreCompileInputs.cache
+C:\Users\18297\OneDrive\Desktop\Programacion II\CalculadoraBasica\CalculadoraBasica\bin\Debug\CalculadoraBasica.exe.config
+C:\Users\18297\OneDrive\Desktop\Programacion II\CalculadoraBasica\CalculadoraBasica\bin\Debug\CalculadoraBasica.exe
+C:\Users\18297\OneDrive\Desktop\Programacion II\CalculadoraBasica\CalculadoraBasica\bin\Debug\CalculadoraBasica.pdb
+C:\Users\18297\OneDrive\Desktop\Programacion II\CalculadoraBasica\CalculadoraBasica\obj\Debug\CalculadoraBasica.exe
+C:\Users\18297\OneDrive\Desktop\Programacion II\CalculadoraBasica\CalculadoraBasica\obj\Debug\CalculadoraBasica.pdb
